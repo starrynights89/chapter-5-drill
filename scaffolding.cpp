@@ -9,6 +9,11 @@ try
     {
         cout << "Success!\n"; 
     }
+    string s = "ape";
+    if (s == "fool")
+    {
+        cout << "Success!\n";
+    }
     keep_window_open();
     return 0;
 }
