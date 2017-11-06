@@ -3,7 +3,7 @@
 int main()
 try
 {
-    <<your code here>>
+    cout << "Success" << !\n"
     keep_window_open();
     return 0;
 }
