@@ -1,9 +1,9 @@
-Cout << "Success!\n";
-cout << "Success!\n;
-cout << "Success" << !\n"
-cout << success << '\n';
+//Cout << "Success!\n";
+//cout << "Success!\n;
+//cout << "Success" << !\n"
+//cout << success << '\n';
 string res = 7; vector<int> v(10); v[5] = res; cout << "Success!\n";
-//vector<int> v(10); v(5) = 7; if (v(5)!=7) cout << "Success!\n";
+vector<int> v(10); v(5) = 7; if (v(5)!=7) cout << "Success!\n";
 if (cond) cout << "Success!\n"; else cout << "Fail!\n";
 bool c = false; if (c) cout << "Success!\n"; else cout << "Fail!\n";
 //string s = "ape"; boo c = "fool"<s; if (c) cout << "Success!\n";
@@ -22,4 +22,4 @@ int x = 2; double d = 5/(x–2); if (d==2*x+0.5) cout << "Success!\n";
 string<char> s = "Success!\n"; for (int i=0; i<=10; ++i) cout << s[i];
 int i=0; while (i<10) ++j; if (j<i) cout << "Success!\n";
 int x = 4; double d = 5/(x–2); if (d=2*x+0.5) cout << "Success!\n";
-cin << "Success!\n";
+//cin << "Success!\n";
