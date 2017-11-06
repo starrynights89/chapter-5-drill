@@ -3,7 +3,14 @@
 int main()
 try
 {
-    if (true) then cout << "Success!\n"; else cout << "Fail!\n";
+	if (true)
+	{
+		cout << "Success!\n";
+	}
+	else
+	{
+		cout << "Fail!\n";
+	}
     keep_window_open();
     return 0;
 }
