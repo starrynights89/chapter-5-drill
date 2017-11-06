@@ -3,7 +3,7 @@
 int main()
 try
 {
-    string s = "Success!\n"; for (int i=0; i<10; ++i) cout << s[i];
+    <<your code here>>
     keep_window_open();
     return 0;
 }
