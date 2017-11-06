@@ -8,8 +8,10 @@ try
 	{
 		cout << "Success!\n";
 	}
-	else
-		cout << "Fail!\n"; 
+    else
+    {
+        cout << "Fail!\n";
+    }		 
     keep_window_open();
     return 0;
 }
