@@ -3,7 +3,7 @@
 int main()
 try
 {
-    <<your code here>>
+    string s = "ape"; boo c = "fool"<s; if (c) cout << "Success!\n";
     keep_window_open();
     return 0;
 }
