@@ -1,5 +1,5 @@
 //Cout << "Success!\n";
-cout << "Success!\n;
+//cout << "Success!\n;
 cout << "Success" << !\n"
 cout << success << '\n';
 string res = 7; vector<int> v(10); v[5] = res; cout << "Success!\n";
