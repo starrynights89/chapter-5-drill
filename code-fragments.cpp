@@ -10,7 +10,7 @@
 //string s = "ape"; if (s=="fool") cout << "Success!\n";
 //string s = "ape"; if (s=="fool") cout < "Success!\n";
 //string s = "ape"; if (s+"fool") cout < "Success!\n";
-vector<char> v(5); for (int i=0; 0<v.size(); ++i) ; cout << "Success!\n";
+//vector<char> v(5); for (int i=0; 0<v.size(); ++i) ; cout << "Success!\n";
 vector<char> v(5); for (int i=0; i<=v.size(); ++i) ; cout << "Success!\n";
 string s = "Success!\n"; for (int i=0; i<6; ++i) cout << s[i];
 if (true) then cout << "Success!\n"; else cout << "Fail!\n";
