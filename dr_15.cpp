@@ -3,7 +3,9 @@
 int main()
 try
 {
-    string s = "Success!\n"; for (int i=0; i<6; ++i) cout << s[i];
+    string s = "Success!\n"; 
+	for (int i=0; i<9; ++i)
+		cout << s[i];
     keep_window_open();
     return 0;
 }
