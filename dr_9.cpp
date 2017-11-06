@@ -3,7 +3,10 @@
 int main()
 try
 {
-    string s = "ape"; boo c = "fool"<s; if (c) cout << "Success!\n";
+    string s = "ape"; bool c = "fool">=s;
+    if (c) cout << "Success!\n";
+    else 
+        cout << "Fail!\n";
     keep_window_open();
     return 0;
 }
