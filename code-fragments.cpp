@@ -3,7 +3,7 @@
 //cout << "Success" << !\n"
 //cout << success << '\n';
 //string res = 7; vector<int> v(10); v[5] = res; cout << "Success!\n";
-vector<int> v(10); v(5) = 7; if (v(5)!=7) cout << "Success!\n";
+//vector<int> v(10); v(5) = 7; if (v(5)!=7) cout << "Success!\n";
 if (cond) cout << "Success!\n"; else cout << "Fail!\n";
 bool c = false; if (c) cout << "Success!\n"; else cout << "Fail!\n";
 string s = "ape"; boo c = "fool"<s; if (c) cout << "Success!\n";
