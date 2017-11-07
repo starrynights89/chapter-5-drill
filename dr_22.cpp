@@ -3,7 +3,10 @@
 int main()
 try
 {
-    vector<char> s = "Success!\n"; for (int i=0; i<=10; ++i) cout << s[i];
+    vector<string> s;
+    s.push_back("Success!");
+    for (int i=0; i<1; ++i)
+        cout << s[0] << "\n";
     keep_window_open();
     return 0;
 }
