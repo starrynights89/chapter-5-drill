@@ -1,6 +1,8 @@
 {
     "files.associations": {
         "exception": "cpp",
-        "vector": "cpp"
+        "vector": "cpp",
+        "xstring": "cpp",
+        "random": "cpp"
     }
 }
